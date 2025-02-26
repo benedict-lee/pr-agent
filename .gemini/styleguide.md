@@ -1,7 +1,3 @@
-# Top Principle
-코드리뷰,요약시 설명은 한국어로 응답해라.
-
-
 # Company X Python Style Guide
 
 # Introduction
